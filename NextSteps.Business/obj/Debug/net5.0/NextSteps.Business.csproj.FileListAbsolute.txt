@@ -1,0 +1,12 @@
+D:\NextStepsApi\NextStepsApi\NextSteps.Business\bin\Debug\net5.0\NextSteps.Business.deps.json
+D:\NextStepsApi\NextStepsApi\NextSteps.Business\bin\Debug\net5.0\NextSteps.Business.dll
+D:\NextStepsApi\NextStepsApi\NextSteps.Business\bin\Debug\net5.0\ref\NextSteps.Business.dll
+D:\NextStepsApi\NextStepsApi\NextSteps.Business\bin\Debug\net5.0\NextSteps.Business.pdb
+D:\NextStepsApi\NextStepsApi\NextSteps.Business\obj\Debug\net5.0\NextSteps.Business.csproj.AssemblyReference.cache
+D:\NextStepsApi\NextStepsApi\NextSteps.Business\obj\Debug\net5.0\NextSteps.Business.GeneratedMSBuildEditorConfig.editorconfig
+D:\NextStepsApi\NextStepsApi\NextSteps.Business\obj\Debug\net5.0\NextSteps.Business.AssemblyInfoInputs.cache
+D:\NextStepsApi\NextStepsApi\NextSteps.Business\obj\Debug\net5.0\NextSteps.Business.AssemblyInfo.cs
+D:\NextStepsApi\NextStepsApi\NextSteps.Business\obj\Debug\net5.0\NextSteps.Business.csproj.CoreCompileInputs.cache
+D:\NextStepsApi\NextStepsApi\NextSteps.Business\obj\Debug\net5.0\NextSteps.Business.dll
+D:\NextStepsApi\NextStepsApi\NextSteps.Business\obj\Debug\net5.0\ref\NextSteps.Business.dll
+D:\NextStepsApi\NextStepsApi\NextSteps.Business\obj\Debug\net5.0\NextSteps.Business.pdb

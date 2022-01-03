@@ -1,0 +1,26 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "48b3cab9-b744-4c70-a1ee-c27e779abdf8": {
+      "ProjectGuid": "48b3cab9-b744-4c70-a1ee-c27e779abdf8",
+      "DisplayName": "NextSteps.Adpater.Mongo",
+      "ColorIndex": 0
+    },
+    "e56ce588-c46a-43bf-a5d4-b7e8172facd9": {
+      "ProjectGuid": "e56ce588-c46a-43bf-a5d4-b7e8172facd9",
+      "DisplayName": "NextSteps.Api",
+      "ColorIndex": 1
+    },
+    "bf4e995e-eb61-43d1-ba0e-e858ab55c2ff": {
+      "ProjectGuid": "bf4e995e-eb61-43d1-ba0e-e858ab55c2ff",
+      "DisplayName": "NextSteps.Adpater.SQL",
+      "ColorIndex": 2
+    },
+    "d46d3127-22ac-475b-a5da-e4960847d948": {
+      "ProjectGuid": "d46d3127-22ac-475b-a5da-e4960847d948",
+      "DisplayName": "NextSteps.Business",
+      "ColorIndex": 3
+    }
+  },
+  "NextColorIndex": 4
+}

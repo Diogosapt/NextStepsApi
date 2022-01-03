@@ -1,0 +1,15 @@
+D:\NextStepsApi\NextStepsApi\NextSteps.Adpater.Fake\bin\Debug\net5.0\NextSteps.Adpater.Fake.deps.json
+D:\NextStepsApi\NextStepsApi\NextSteps.Adpater.Fake\bin\Debug\net5.0\NextSteps.Adpater.Fake.dll
+D:\NextStepsApi\NextStepsApi\NextSteps.Adpater.Fake\bin\Debug\net5.0\ref\NextSteps.Adpater.Fake.dll
+D:\NextStepsApi\NextStepsApi\NextSteps.Adpater.Fake\bin\Debug\net5.0\NextSteps.Adpater.Fake.pdb
+D:\NextStepsApi\NextStepsApi\NextSteps.Adpater.Fake\bin\Debug\net5.0\NextSteps.Business.dll
+D:\NextStepsApi\NextStepsApi\NextSteps.Adpater.Fake\bin\Debug\net5.0\NextSteps.Business.pdb
+D:\NextStepsApi\NextStepsApi\NextSteps.Adpater.Fake\obj\Debug\net5.0\NextSteps.Adpater.Fake.csproj.AssemblyReference.cache
+D:\NextStepsApi\NextStepsApi\NextSteps.Adpater.Fake\obj\Debug\net5.0\NextSteps.Adpater.Fake.GeneratedMSBuildEditorConfig.editorconfig
+D:\NextStepsApi\NextStepsApi\NextSteps.Adpater.Fake\obj\Debug\net5.0\NextSteps.Adpater.Fake.AssemblyInfoInputs.cache
+D:\NextStepsApi\NextStepsApi\NextSteps.Adpater.Fake\obj\Debug\net5.0\NextSteps.Adpater.Fake.AssemblyInfo.cs
+D:\NextStepsApi\NextStepsApi\NextSteps.Adpater.Fake\obj\Debug\net5.0\NextSteps.Adpater.Fake.csproj.CoreCompileInputs.cache
+D:\NextStepsApi\NextStepsApi\NextSteps.Adpater.Fake\obj\Debug\net5.0\NextSteps.Adpater.Fake.csproj.CopyComplete
+D:\NextStepsApi\NextStepsApi\NextSteps.Adpater.Fake\obj\Debug\net5.0\NextSteps.Adpater.Fake.dll
+D:\NextStepsApi\NextStepsApi\NextSteps.Adpater.Fake\obj\Debug\net5.0\ref\NextSteps.Adpater.Fake.dll
+D:\NextStepsApi\NextStepsApi\NextSteps.Adpater.Fake\obj\Debug\net5.0\NextSteps.Adpater.Fake.pdb
