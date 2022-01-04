@@ -37,10 +37,7 @@ namespace NextSteps.Adpater.Mongo
             }
             var result = _mapper.Map<Business.Models.Person, Models.Person>(person);
 
-            for (int i = 0; i < person.Hobbies.Count(); i++)
-            {
-                await _unitOfWork.GetRepository<Models.Person>().Create(result);
-            }
+            await _unitOfWork.GetRepository<Models.Person>().Create(result);
 
             var operations = await _unitOfWork.SaveChangesAsync();
 
@@ -170,11 +167,11 @@ namespace NextSteps.Adpater.Mongo
 
             if (operations > 0)
             {
-                response.AddSuccess($"Photo Updated");
+                response.AddSuccess($"Person Updated");
             }
             else
             {
-                response.AddError($"Photo update failed", "Operation Failed");
+                response.AddError($"Person update failed", "Operation Failed");
             }
             return response;
         }

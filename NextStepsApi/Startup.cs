@@ -45,8 +45,8 @@ namespace NextStepsApi
             services.AddNextStepsUseCases();
 
             //services.AddFakeNextStepsAdapter();
-            // services.AddDatabaseAdapter();
-            // services.AddSqlPersonAdapter();
+            //services.AddDatabaseAdapter();
+            //services.AddSqlPersonAdapter();
 
             services.Configure<DataBaseMongo>(Configuration.GetSection("DataBaseMongo"));
             services.AddMongoAdapter();

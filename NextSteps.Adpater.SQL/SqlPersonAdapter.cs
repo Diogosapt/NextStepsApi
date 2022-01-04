@@ -206,6 +206,11 @@ namespace NextSteps.Adpater.SQL
             {
                 _unitOfWork.GetRepository<Models.Hobbies>().DeleteRange(oldHobbies);
                 operations = await _unitOfWork.SaveChangesAsync();
+
+                if (operations <= 0)
+                {
+                    response.AddError($"Hobbies delete failed", "Operation Failed");
+                }
             }
 
             if (person.Hobbies.Any())
